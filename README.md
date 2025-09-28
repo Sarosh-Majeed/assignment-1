@@ -8,7 +8,7 @@ Section: V-B
 LAB-1
 
 ## VMware Installation
-![Install VMware Workstation Pro](Lab1-screenshots/1.png)
+![Install VMware Workstation Pro](lab1-screenshots/1.png)
 ![Install VMware Workstation Pro](Lab1-screenshots/2.png)
 ![Install VMware Workstation Pro](Lab1-screenshots/3.png)
 ![Install VMware Workstation Pro](Lab1-screenshots/4.png)
