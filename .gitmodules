@@ -1,0 +1,6 @@
+[submodule "CC-Assignment 1/assignment-1"]
+	path = CC-Assignment 1/assignment-1
+	url = https://github.com/Sarosh-Majeed/assignment-1.git
+[submodule "CC-Assignment 1/Sarosh-Majeed.github.io"]
+	path = CC-Assignment 1/Sarosh-Majeed.github.io
+	url = https://github.com/Sarosh-Majeed/Sarosh-Majeed.github.io.git
