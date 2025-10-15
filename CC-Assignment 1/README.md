@@ -33,5 +33,4 @@ Section: 5-B
    ![Git Remote](https://github.com/Sarosh-Majeed/cc-SaroshMajeed-2023-BSE-059/blob/main/CC-Assignment%201/screenshots/3.github-remote-added.png?raw=true)
 
 5. **GitHub Pages link to your CV/Portfolio**  
-   Link: [https://sarosh-majeed.github.io/](https://sarosh-majeed.github.io/)  
-   ![CV/Portfolio](https://github.com/Sarosh-Majeed/cc-SaroshMajeed-2023-BSE-059/blob/main/CC-Assignment%201/screenshots/4.CV.png?raw=true)
+   Link: [https://sarosh-majeed.github.io/](https://github.com/Sarosh-Majeed/cc-SaroshMajeed-2023-BSE-059/blob/main/CC-Assignment%201/screenshots/4.CV.png?raw=true)
